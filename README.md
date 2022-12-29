@@ -1,4 +1,4 @@
-### Fala ae! 👋
+### buongiorno 👋
 [![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@andrek.ece) [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=whitehttps://www.youtube.com/channel/UCDnwbDDk3isfN6OzYHNpeCA)](https://www.youtube.com/channel/UCDnwbDDk3isfN6OzYHNpeCA)
 
 
