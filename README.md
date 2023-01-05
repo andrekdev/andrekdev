@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+![banner](https://user-images.githubusercontent.com/99366403/210745434-87f59b2d-286e-4b07-9838-65bf946b66c5.jpg)
+
 
 <h1 align='center'>Olá! seja bem vindo(a) </h1>
 
@@ -24,4 +25,3 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
