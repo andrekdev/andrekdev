@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-### Olá 👋
+<h1 align='center'>Olá! seja bem vindo(a) </h1>
 
 
 ### Estudos:
@@ -19,7 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   <div align="center">
-<br><p align="centre"><b>Curiosos 👀 </b></p>  
+<br><p align="center"><b>Curiosos 👀 </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{andrekdev}/count.svg" /></p> 
 <br></div>
   
