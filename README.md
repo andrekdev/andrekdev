@@ -1,6 +1,6 @@
 ![banner2](https://user-images.githubusercontent.com/99366403/210746253-a7acb0bb-465e-4eaf-99ba-4bc6feb4b96b.jpg)
 
-<h1 align='center'>Olá! seja bem vindo(a) </h1>
+<h1 align='center'>Olá!</h1>
 <p align='center'> тавтай морил </p>
 
 
