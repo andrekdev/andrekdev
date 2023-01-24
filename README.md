@@ -1,4 +1,8 @@
-![banner2](https://user-images.githubusercontent.com/99366403/214188054-8f9bc3a0-b9e7-4359-8271-5d5e28ca64f3.png)
+  <div align="center">
+
+<img align="center" src="https://user-images.githubusercontent.com/99366403/214188054-8f9bc3a0-b9e7-4359-8271-5d5e28ca64f3.png" />
+<br></div>
+
 
 <h1 align='center'>Olá!</h1>
 <p align='center'> тавтай морил </p>
