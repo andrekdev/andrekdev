@@ -12,7 +12,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{andrekdev}/count.svg" /></p> 
 <br></div>
 
-
+<div align="center">
 ### Estudando neste momento:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
@@ -26,9 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
-
-  
-
+</div>
 
 
   
