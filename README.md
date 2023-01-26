@@ -5,7 +5,6 @@
 
 
 <h1 align='center'>Olá!</h1>
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 <p align='center'> building watsapp 2  </p>
   <div align="center">
 <br><p align="center">👀</p>  
