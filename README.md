@@ -20,3 +20,4 @@
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <a href="https://andrekwebs.vercel.app/" target="_blank"><img alt="Windows Terminal" src="https://img.shields.io/badge/INFO-MINHAS REDES-100000?style=for-the-badge&logo=Windows Terminal&logoColor=7759
 ![snake gif](https://github.com/andrekdev/andrekdev/blob/output/github-contribution-grid-snake.svg)
+</div>
