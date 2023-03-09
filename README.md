@@ -1,4 +1,4 @@
-<div style="display: block; justify-content: center; margin: 40px;">
+<div style="display: block; justify-content: center; margin-bottom: 10%;">
  
  <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=Seja+bem+vindo(a)%2C+ao+meu+github!;+@andrekdev">
   <img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=andrekdev&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
