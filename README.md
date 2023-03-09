@@ -1,4 +1,6 @@
-  <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=Seja+bem+vindo(a)%2C+ao+meu+github!;+@andrekdev">
+<div style="display: flex; justify-content: center; margin: 40px;">
+ 
+ <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=Seja+bem+vindo(a)%2C+ao+meu+github!;+@andrekdev">
   <img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=andrekdev&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=tor&text=false&animation=spin&fill=black&textfill=bface6&"/>
@@ -7,6 +9,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false&animation=spin&fill=black&textfill=bface6&"/>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&text=false&animation=spin&fill=black&textfill=bface6&"/>
 </div>
+  </div>
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu%2022.04.2-100000?style=for-the-badge&logo=Linux&logoColor=7759b5&labelColor=212121&color=7759b5%22"/></a>
 </div>
