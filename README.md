@@ -9,7 +9,7 @@
   <img src="https://readme-components.vercel.app/api?component=logo&logo=html5&text=false&animation=spin&fill=black&textfill=bface6&"/>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=css3&text=false&animation=spin&fill=black&textfill=bface6&"/>
 </div>
-  </div>
+  
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <a href="#"><img src="https://img.shields.io/badge/Ubuntu%2022.04.2-100000?style=for-the-badge&logo=Linux&logoColor=7759b5&labelColor=212121&color=7759b5%22"/></a>
 </div>
@@ -22,4 +22,4 @@
 </div>
 <div style="display: flex; justify-content: center; margin-bottom: 40px;">
   <a href="https://andrekwebs.vercel.app/" target="_blank"><img alt="Windows Terminal" src="https://img.shields.io/badge/INFO-MINHAS REDES-100000?style=for-the-badge&logo=Windows Terminal&logoColor=7759"/></a>
-
+</div>
